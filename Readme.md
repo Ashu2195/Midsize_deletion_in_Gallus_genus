@@ -11,3 +11,7 @@ Ashutosh Sharma 1, Sagar Sharad Shinde 1,  Nagarjun Vijay 1
 - SNPhylo 20180901
 - Freebayes v1.0.0
 - Figtree 1.4.2
+- Bedtools v2.26.0
+- VCFtools 0.1.15
+- Picard tools
+- bcftools 1.9
